@@ -1,6 +1,6 @@
 {
   "justitiabele": [
-    {"id": 1, "voornaam": "Boris", "achternaam": "Boef","SKN": 1, "celnummer":1,"dji_nummer": 1,"inrichting_naam": "Lelystad", "telefoonkaart_nummer":123}
+    {"id": 1, "voornaam": "Boris", "achternaam": "Boef","SKN": 1, "celnummer":1,"dji_nummer": 1,"inrichting_naam": "Lelystad", "telefoonkaart_nummer":123},
     {"id": 2, "voornaam": "Joe", "achternaam": "Dalton","SKN": 2, "celnummer":2,"dji_nummer": 2,"inrichting_naam": "Lelystad", "telefoonkaart_nummer":456}
   ],
   "comments": [
