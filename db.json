@@ -1,8 +1,6 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "justitiabele": [
+    { "voornaam": "Boris", "achternaam": "Boef","SKN": 1, "celnummer":1,"dji_nummer": 1,"inrichting_naam": "Lelystad", "telefoonkaart_nummer":123},
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
